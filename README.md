@@ -5,5 +5,5 @@
 - 🐲 I am into manga and anime
 - 🔭 I’m currently working on nothing really
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 Email: notsuju@proton.me
 -->
