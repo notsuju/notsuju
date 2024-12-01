@@ -3,7 +3,7 @@
 - 🎨 I sometimes draw
 - 🌱 I’m currently learning c
 - 🐲 I am into manga and anime
-- 🔭 I’m currently working on nothing really
+- 🔭 I’m currently working on a text editor in c
 - 💬 Ask me about anything
 - 📫 Email: notsuju@proton.me
 -->
