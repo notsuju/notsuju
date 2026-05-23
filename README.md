@@ -2,5 +2,5 @@
 
 - 🎨 I sometimes draw
 - 💬 Ask me about anything
-- 📫 Email: notsuju@proton.me
+- 📫 Email: why.f08@gmail.com
 -->
