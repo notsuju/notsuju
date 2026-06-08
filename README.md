@@ -1,6 +1,5 @@
 ![b640d7cb7f9b9f6fc0d869012d1b9e79](https://github.com/notsuju/notsuju/assets/131643792/ea87b7ba-e391-4a7c-bca7-a7ae50fcaafc)
 
-- I like C
 - 🎨 I sometimes draw
 - 💬 Ask me about anything
 - 📫 Email: why.f08@gmail.com
